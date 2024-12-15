@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating my first Bloge"
-date: 2024-12-15
+date: 2024-10-18 12:58:29
 categories: personal
 ---
 # This is just a test
