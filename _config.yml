@@ -10,4 +10,4 @@ github_username:  simon-gray
 
 # Build settings
 markdown: kramdown
-permalink: /:title:output_ext
+permalink: /blog/:title:output_ext
