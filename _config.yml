@@ -4,7 +4,7 @@ email: simon.gray@forbesii.com
 description: > # this means to ignore newlines until "baseurl:"
  This is an example of a description
  Hopefully it works
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://simon-gray.github.io/" # the base hostname & protocol for your site
 github_username:  simon-gray
 
