@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Welcome to my page"
-date: 2024-12-13 12:30:30
+title: "Creating my first Bloge"
+date: 2024-12-15
 categories: personal
 ---
-THis is jsut a test
+# This is just a test
+Honestly I'm jsut making sure this works, I'll do more later
 
 
