@@ -3,7 +3,7 @@ layout: post
 title: "This is just a new post"
 date: 2024-12-14 12:30:30
 name: "Simon Gray"
-tags:
+tag:
 - blogging
 - tutorial
 - personal
