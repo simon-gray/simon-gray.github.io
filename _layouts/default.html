@@ -10,13 +10,6 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
-        {% if page.tags %}
-          <p>Tags: 
-            {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="tag-link">{{ tag }}</a>
-            {% endfor %}
-          </p>
-        {% endif %}
       </div>
     </div>
 
