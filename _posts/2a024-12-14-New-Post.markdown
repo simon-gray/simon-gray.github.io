@@ -1,0 +1,9 @@
+---
+layout: post
+title: "This is just a new post"
+date: 2024-12-14 12:30:30
+categories: personal
+name: "Simon Gray"
+---
+# This is a new post
+This is just sample text for the new post
