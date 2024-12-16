@@ -8,6 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://simon-gray.github.io/" # the base hostname & protocol for your site
 github_username:  simon-gray
 
+plugins:
+- jekyll-tagging
+
 # Build settings
 markdown: kramdown
 permalink: /blog/:title:output_ext
