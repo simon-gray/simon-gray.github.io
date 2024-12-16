@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Tag: jekyll"
-tag: jekyll
-permalink: /tags/jekyll/
+title: "Tag: blogging"
+tag: blogging
+permalink: /tag/blogging/
 ---
