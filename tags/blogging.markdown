@@ -1,6 +1,6 @@
 ---
-layout: tag
-title: "Tag: blogging"
+layout: tags
+title: "Tags: blogging"
 tag: blogging
-permalink: /tag/blogging/
+permalink: /tags/blogging/
 ---
