@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Start of a Blog"
+date: 2024-12-17
+name: "Simon Gray"
+tags:
+- blogging
+- personal
+---
 # The Start of a Blog
 For some time now I've been thinking about creating a blog, not just for the technical stuff that I'm interested in but also just about life experiences and things that I think are cool.
 
@@ -12,9 +21,7 @@ Something I've **always** been concerned about is privacy.
 
 While I'm not a very social person, I do have some social media, personally I really don't like it at all that much, and intending to use it much less, if at all.
 
-If you've found this site and been given access, congrats, this isn't something I'll have provided you without giving it some serious consideration.
-
-This is also an opportunity, and opportunity to give others a look into my life and my perspective, while I don't currently intend to say who I am if you've been given access then you'd already know.
+This is also an opportunity, and opportunity to give others a look into my life and perspective on things
 
 ### Hosting Location
 
@@ -63,5 +70,5 @@ I'm planning on having pages be either a blog type thing or more of a guide, but
 once I post something I want to make sure it doesn't change unless there's a security / privacy or I just no longer want this even possibly available in a public space.
 
 <div style="text-align: right; padding-right: 25px;">
-  Version 1.0
+  Version 0.1
 </div>
