@@ -5,8 +5,8 @@ date: 2024-12-14 12:30:30
 name: "Simon Gray"
 tags:
 - blogging
-- tutorial
 - personal
+- tutorial
 ---
 # This is a new post
 This is just sample text for the new post

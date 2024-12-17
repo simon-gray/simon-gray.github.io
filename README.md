@@ -1,4 +1,3 @@
-example
-=======
+# My Blog and Diary Kinda thing
 
-Jekyll example Project site
+This is just an example of me testing if this works
