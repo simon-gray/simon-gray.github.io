@@ -7,10 +7,39 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://simon-gray.github.io/" # the base hostname & protocol for your site
 github_username:  simon-gray
-theme: jekyll-theme-dinky
-#plugins:
-#- jekyll-tagging
+theme: minima
+plugins:
+- jekyll-tagging
+- jekyll-feed
+- jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
 permalink: /blog/:title:output_ext
+
+collections:
+  learning:
+    output: true
+    permalink: /learning/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Simon Gray"
+  - scope:
+      path: ""
+      type: "learning"
+    values:
+      layout: learning
+      author: "Simon Gray"
+
+nav:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Learning
+    url: /learning/
