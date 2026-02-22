@@ -1,11 +1,14 @@
 ---
+update: 2025-11-28
+date: 2024-12-18
 layout: post
-title: "Start of a Blog"
-date: 2024-12-17
-name: "Simon Gray"
+title: Start of a Blog
+name: Simon Gray
+state: draft
+Version: 0.2
 tags:
-- blogging
-- personal
+  - blogging
+  - personal
 ---
 # The Start of a Blog
 For some time now I've been thinking about creating a blog, not just for the technical stuff that I'm interested in but also just about life experiences and things that I think are cool.
@@ -63,12 +66,12 @@ While I think it'll be cool to document my thoughts and have a look at them late
 Right now this it absolutely barebones, but its using some cool tools, it was created with Jekyll and hosted / stored with github, I don't have a proper name for this blog, so I'll just start with **"Forbesii Blog"**, not that great, but it's better than having nothing.
 Although when I actually think about it, this may also have aspects of being kinda like a diary of certain events, and I also plan to retroactively add previous things I've done and my thoughts on it.
 
-There's quite a bit of work to do here with the infrastructure, but for each major version I'll keep it tracked through git, I've always enjoyed the git workflow and this is a good way to have branches for post and to just learn more, sometimes I'll need to add things like tags, but those don't change the actual content so I'll just add like 1.1, but I'll work on that in the future 
+There's quite a bit of work to do here with the infrastructure, but for each major version I'll keep it tracked through git, I've always enjoyed the git workflow and this is a good way to have branches for post and to just learn more, sometimes I'll need to add things like tags, but those don't change the actual content so I'll just add like 1.1, but I'll work on that in the future
 
 ## Future State
 I'm planning on having pages be either a blog type thing or more of a guide, but that's still all a work in progress.
 once I post something I want to make sure it doesn't change unless there's a security / privacy or I just no longer want this even possibly available in a public space.
 
 <div style="text-align: right; padding-right: 25px;">
-  Version 0.1
+  Version 0.2
 </div>
